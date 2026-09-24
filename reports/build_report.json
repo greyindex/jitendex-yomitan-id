@@ -1,0 +1,14 @@
+{
+  "built_at": "2026-09-23T22:25:48.998918+00:00",
+  "translated_ids": 42222,
+  "translated_worklist_fields": 207174,
+  "expanded_translated_fields": 305351,
+  "translated_variant_rows": 65279,
+  "verified_extractable_rows": 296919,
+  "archive_files": 471,
+  "archive_bytes": 70579731,
+  "archive_sha256": "63dace5908385acd66a2b8060fc11d9e1fee2be1b7533d2417a359173fe3da66",
+  "archive_crc_valid": true,
+  "source_attribution_preserved": true,
+  "index_schema_fix": "Omitted isUpdatable, indexUrl, and downloadUrl as in the Chinese offline release."
+}
