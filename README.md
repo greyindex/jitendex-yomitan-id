@@ -4,6 +4,8 @@ An unofficial Indonesian localization of [Jitendex](https://jitendex.org) for Yo
 
 **Download:** [Latest release](https://github.com/greyindex/jitendex-yomitan-id/releases/latest) · [Direct ZIP download](https://github.com/greyindex/jitendex-yomitan-id/releases/latest/download/jitendex-yomitan-id-common20pct-luna.zip)
 
+Other language edition: [Japanese–Chinese dictionary](https://github.com/greyindex/jitendex-yomitan-zh).
+
 ## Coverage
 
 The upstream dictionary contains **211,107 distinct JMdict IDs with definitions**, represented by **296,919 spelling/reading variant records**. This release localizes the frequency-selected top 20% by distinct entry count:
